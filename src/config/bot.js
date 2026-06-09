@@ -22,10 +22,10 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
+    activities: [https://www.youtube.com/watch?v=lZ20TeUjUi8
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "https://www.youtube.com/watch?v=lZ20TeUjUi8",
+        name: "▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10",
         // Activity type number (0 = Playing).
         type: 0, 
       },
@@ -41,7 +41,7 @@ export const botConfig = {
     owners: process.env.OWNER_IDS?.split(",") || [],
 
     // Default wait time between command uses (in seconds).
-    defaultCooldown: 3, 
+    defaultCooldown: 1, 
 
     // If true, old commands are removed before re-registering.
     deleteCommands: false,
