@@ -22,7 +22,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [https://www.youtube.com/watch?v=lZ20TeUjUi8
+    activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10",
